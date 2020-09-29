@@ -10,15 +10,10 @@
 
 ## Authors
 
-👤 **Tadeu Sarro**
+👤 **karthick Harimoorthy**
 
-[Website](https://tadeuasarro.web.app/)
-
-👤 **Victor Manuel Gonzalez Buitrago**
-
-- Github: [@Shaqri](https://github.com/Shaqri)
-- Twitter: [@victorgonbu](https://twitter.com/victorgonbu)
-- Linkedin: [linkedin](https://www.linkedin.com/in/victor-manuel-gonzalez-buitrago-8704731a5/)
+- Github: [@Shaqri](https://github.com/karthykarthick)
+- Linkedin: [linkedin](https://www.linkedin.com/in/karthick-harimoorthy/)
 
 ## 🤝 Contributing
 
